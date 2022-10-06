@@ -322,7 +322,6 @@ router.get('/github/:username', async (req, res) => {
 		};
 
 		const gitHubResponse = await axios.get(uri, { headers });
-		console.log(gitHubResponse);
 		return res.json(gitHubResponse.data);
 	} catch (err) {
 		console.error(err.message);
