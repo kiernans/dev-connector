@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://nukabunny:nukabunny@devconnector.jj7c4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientID": "696b5b95214d095e024b",
+	"githubToken": "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"
+}
