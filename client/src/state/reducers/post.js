@@ -8,7 +8,7 @@ import {
 	ADD_POST,
 	ADD_COMMENT,
 	REMOVE_COMMENT,
-} from '../actions/types';
+} from '../../state/actions/types';
 
 const initialState = {
 	posts: [],
