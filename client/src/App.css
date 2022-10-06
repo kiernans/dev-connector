@@ -495,6 +495,10 @@ button {
   margin-bottom: 0.5rem;
 }
 
+.not-found {
+  margin-top: 6rem;
+}
+
 /* Mobile Styles */
 @media (max-width: 700px) {
   .container {
