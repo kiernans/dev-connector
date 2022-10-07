@@ -28,16 +28,7 @@
     "express-validator": "^6.14.0",
     "gravatar": "^1.8.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.2.6",
-    "react-dom": "^18.2.0",
-    "react-moment": "^1.1.2",
-    "react-redux": "^8.0.4",
-    "react-router-dom": "^6.4.2",
-    "react-scripts": "^5.0.1",
-    "redux": "^4.2.0",
-    "redux-devtools-extension": "^2.13.9",
-    "redux-thunk": "^2.4.1",
-    "request": "^2.88.2"
+    "mongoose": "^6.2.6"
   },
   "devDependencies": {
     "concurrently": "^7.0.0",
