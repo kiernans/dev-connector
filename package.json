@@ -1,5 +1,5 @@
 {
-  "name": "devconnector",
+  "name": "dev-connector",
   "version": "1.0.0",
   "description": "Social network for developers",
   "main": "server.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiernans/Projects.git"
+    "url": "git+https://github.com/kiernans/dev-connector.git"
   },
   "author": "Kiernan Soriano",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiernans/Projects/issues"
+    "url": "https://github.com/kiernans/dev-connector/issues"
   },
-  "homepage": "https://github.com/kiernans/Projects#readme",
+  "homepage": "https://github.com/kiernans/dev-connector#readme",
   "dependencies": {
     "axios": "^0.26.1",
     "bcryptjs": "^2.4.3",
