@@ -1,4 +1,8 @@
-# Quick Start
+# Dev Connector
+
+MERN stack application that includes creating and displaying profiles, authentication, creating, editing and liking posts. Redux used for state management.
+
+## Quick Start
 
 ### Add a default.json file in config folder with the following
 
