@@ -2,6 +2,10 @@
 
 MERN stack application that includes creating and displaying profiles, authentication, creating, editing and liking posts. Redux used for state management.
 
+## Visit working application at:
+
+[Dev Connector](https://calm-waters-01895.herokuapp.com/)
+
 ## Quick Start
 
 ### Add a default.json file in config folder with the following
