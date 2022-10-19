@@ -1,4 +1,4 @@
-# Quick Start 🚀
+# Quick Start
 
 ### Add a default.json file in config folder with the following
 
@@ -38,8 +38,7 @@ npm run build
 
 ### Test production before deploy
 
-After running a build in the client, cd into the root of the project.  
-And run...
+After running a build in the client, cd into the root of the project and run...
 
 Linux/Unix
 
