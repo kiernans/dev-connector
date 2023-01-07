@@ -5,9 +5,12 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
+    "prodstart": "NODE_ENV=production node server.js",
     "server": "nodemon server",
     "client": "npm start --prefix client",
+    "prodclient": "npm prodstart --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "prod": "concurrently \"npm run server\" \"npm run prodclient\"",
     "render-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "repository": {
