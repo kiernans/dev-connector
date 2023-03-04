@@ -30,7 +30,6 @@ devconnector_html_theme/devconnector_html_theme/register.html
 devconnector_html_theme/devconnector_html_theme/css/style.css
 devconnector_html_theme/devconnector_html_theme/img/icon.png
 devconnector_html_theme/devconnector_html_theme/img/showcase.jpg
-config/default.json
+config/dev.js
 
-// Remove this when deploying to Heroku
-config/production.json
+
